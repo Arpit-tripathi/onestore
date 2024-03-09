@@ -3,7 +3,7 @@ import './App.css';
 
 import Home from './pages/Home';
 import LoginPage from './pages/LoginPage';
-import SignupPage from './pages/SignupPage';
+import SignupPage from './pages/SignupPage'; ``
 import Cart from './features/cart/Cart';
 import { createRoot } from "react-dom/client";
 import Checkout from './pages/Checkout';

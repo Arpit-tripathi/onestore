@@ -2,7 +2,7 @@ import Cart from "../features/cart/Cart";
 
 function CartPage() {
     return (<div>
-        <Cart></Cart>
+        <Cart>CART</Cart>
     </div>);
 }
 
